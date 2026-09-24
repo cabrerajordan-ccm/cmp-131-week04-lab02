@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name:print(Jordan Cabrera)
+- Week:print(4)
+- Lab:print(2)
+- Date:print(9/22/26)
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [x ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -50,4 +50,4 @@ Response:
 
 Provide any additional information about your use of AI for this lab.
 
-Response:
+Response:print(No AI tool was used)
